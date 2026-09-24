@@ -1,7 +1,5 @@
 # 👟 NS_KICKS: Sneaker E-Commerce & Marketplace
 
-> **Note:** This is a full-stack web development project created for the "Web Technologies and Design" course during my Bachelor's degree. It is showcased here to demonstrate my foundations in relational database design, frontend-backend integration, and multi-role web architectures.
-
 ## 📋 Project Overview
 **NS_KICKS** is a complete e-commerce web application dedicated to the sale of sneakers. Rather than a simple storefront, the platform operates as a **Marketplace** with a multi-role system, allowing distinct functionalities for Buyers (Clienti) and Sellers (Venditori). 
 
